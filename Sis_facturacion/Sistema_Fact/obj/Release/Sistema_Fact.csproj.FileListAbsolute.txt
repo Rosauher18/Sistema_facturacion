@@ -1,0 +1,10 @@
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\bin\Release\Sistema_Fact.exe.config
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\bin\Release\Sistema_Fact.exe
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\bin\Release\Sistema_Fact.pdb
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.Form1.resources
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.Properties.Resources.resources
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.csproj.GenerateResource.cache
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.exe
+C:\xampp\htdocs\C#\Sistema_facturacion\Sis_facturacion\Sistema_Fact\obj\Release\Sistema_Fact.pdb
